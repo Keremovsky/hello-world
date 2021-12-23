@@ -1,2 +1,3 @@
 # hello-world
-Starting to GitHub. Guide
+
+I am Computer Engineer student in a Turkish University.
